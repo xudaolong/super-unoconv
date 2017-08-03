@@ -1,6 +1,6 @@
 {
   "name": "super-unoconv",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A betternode.jswrapper for converting documents with unoconv that runs on node v7.x.",
   "main": "index.js",
   "repository": {
