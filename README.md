@@ -38,6 +38,7 @@ tool.convert('./demo.xlsx', 'pdf', {
     output : if you need specify document output basename, filename or directory
     password : if your document have password
     preserve : if you want to keep timestamp and permissions of the original document
+    timeout : if you want to set if the thread run long time
     ``` 
   - callback
 
